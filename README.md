@@ -1,1 +1,1 @@
-# information-retrieval-in-administrative-acts
+# information-retrieval-in-official-journal
